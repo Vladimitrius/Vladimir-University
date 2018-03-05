@@ -1,2 +1,2 @@
 # Vladimir-University
-Exemplo de utilizando do Entity Framework Core e ASP.NET Core 2.0 
+Exemplo de uso utilizando Entity Framework Core e ASP.NET Core 2.0 
